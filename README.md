@@ -1,4 +1,4 @@
-# ML Diabetes Detection Project - Comprehensive Plan
+# ML Diabetes Detection Project Plan
 
 ## Project Overview
 **Objective**: Develop a classification model to predict diabetes risk using the Pima Indians Diabetes Database  
@@ -190,22 +190,22 @@
 
 **Repository Structure**:
 ```
-diabetes-prediction/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
+Early-Detection-of-Diabetes/
+├── Data/
+├── Models/
+├── Notebooks/
+|   ├── complete_analysis.ipynb
 │   ├── 01_EDA.ipynb
 │   ├── 02_preprocessing.ipynb
 │   └── 03_modeling.ipynb
-├── src/
+├── Presentation/
+├── Reports/
+├── Scripts/
 │   ├── data_processing.py
 │   ├── modeling.py
 │   └── evaluation.py
-├── models/
-├── reports/
-├── presentation/
 └── README.md
+├── requirements.txt
 ```
 
 **Deliverables**:
