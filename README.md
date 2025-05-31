@@ -204,8 +204,8 @@ Early-Detection-of-Diabetes/
 │   ├── data_processing.py
 │   ├── modeling.py
 │   └── evaluation.py
-└── README.md
-├── requirements.txt
+├── README.md
+└── requirements.txt
 ```
 
 **Deliverables**:
